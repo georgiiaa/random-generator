@@ -1,0 +1,58 @@
+body{
+  background-color: grey;
+  border: 5px solid white;
+}
+
+img{
+  height: 300px;
+  width: 200px;
+  flex-wrap: wrap;
+  ;
+}
+
+img{
+  height: 75px;
+  width: 100px;
+  padding: 100px;
+}
+
+.gif{
+  height:100px;
+  width: 300px;
+}
+h1 {
+  font-family: 'Sanchez', serif;
+  color:#CE99E5;
+}
+
+
+h3{
+  justify-content: center;
+  color:#CE99E5;
+  font-family: 'Sanchez', serif;
+}
+
+p {
+  border: 1px solid white;
+  justify-content: center;
+  font-family: 'Sanchez', serif;
+  color: #CE99E5;
+
+}
+
+button{
+  background-color: #CE99E5;
+  font-family: 'Sanchez', serif;
+}
+
+#surprise:active{
+  background-color: grey;
+}
+
+h2{
+  color: white;
+  font-family: 'Sanchez', serif;
+}
+
+
+/* //padding: 30px; */
